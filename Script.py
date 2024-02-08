@@ -192,11 +192,9 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <b>Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
+
 <b>Fɪʟᴇ Sɪᴢᴇ : </b> <code>{file_size}</code>
 <b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
 
