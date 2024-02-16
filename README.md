@@ -120,7 +120,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Daneil-k/DQ-the-file-donor/tree/Update">
+<a href="https://heroku.com/deploy?template=https://github.com/Daneil-k/DQ-the-file-donor/tree/Bit">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
