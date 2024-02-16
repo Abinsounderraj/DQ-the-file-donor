@@ -197,16 +197,9 @@ Nᴀᴍᴇ - {}"""
 <b>
 
 =========== • ✠ • ===========
-
-▫️ Cʜᴀɴɴᴇʟ : @premiumapkottmods
-▫️ Cʜᴀɴɴᴇʟ : @cpx_upd
-▫️ Mᴀɪɴ ɢʀᴏᴜᴘ : @Cineplexmovreq
-▫️ 2ɴᴅ Gʀᴏᴜᴘ : @cpx_grp_2
-▫️ Bᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ : <a href="https://t.me/+BumXwshjaE84ODdl">Tᴏᴜᴄʜ</a>
-
-ᴅᴜᴇ ᴛᴏ ᴄᴏᴘʏʀɪɢʜᴛ ɪssᴜᴇs ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ғɪʟᴇ ᴀғᴛᴇʀ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴘʟs…
-
-🎗️ ʝσιи 🎗️ ѕнαяє 🎗️ ѕυρρσят 🎗️
+powerd By @Bittupadamvideo
+♡ ㅤ  ❍ㅤ    ⎙    ⌲
+ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ   ˢᵃᵛᵉ   ˢʰᵃʳᵉ
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
