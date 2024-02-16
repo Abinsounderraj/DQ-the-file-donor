@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Daneil-k/DQ-the-file-donor/tree/Update",
-    "repository": "https://github.com/Daneil-k/DQ-the-file-donor/tree/Update",
+    "website": "https://github.com/Daneil-k/DQ-the-file-donor/tree/Bit",
+    "repository": "https://github.com/Daneil-k/DQ-the-file-donor/tree/Bit",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
