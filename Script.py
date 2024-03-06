@@ -1,6 +1,8 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ.</b>"""
+    
+I am <a href=https://t.me/{}>{}</a>,
+Send a movie/series name , I'll send you the movie in a instant.</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -196,15 +198,8 @@ Nᴀᴍᴇ - {}"""
 <b>Fɪʟᴇ Sɪᴢᴇ : </b> <code>{file_size}</code>
 <b>
 
-=========== • ✠ • ===========
-
 ▫️ Cʜᴀɴɴᴇʟ : @waspuploads
-▫️ Cʜᴀɴɴᴇʟ : @waspuploads
-▫️ Mᴀɪɴ ɢʀᴏᴜᴘ : @waspmv
 
-ᴅᴜᴇ ᴛᴏ ᴄᴏᴘʏʀɪɢʜᴛ ɪssᴜᴇs ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ғɪʟᴇ ᴀғᴛᴇʀ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴘʟs…
-
-🎗️ ʝσιи 🎗️ ѕнαяє 🎗️ ѕυρρσят 🎗️
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
